@@ -1,0 +1,4 @@
+pyinstaller main.py 
+-F - one file
+-w - no console
+-i - icon
